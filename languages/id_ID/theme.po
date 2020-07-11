@@ -1,0 +1,1200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-22 12:55+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: San-Osclass <info@san-osclass.com>\n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26
+msgid "Page not found"
+msgstr "Halaman tidak ditemukan"
+
+#: admin/admin-button.php:2
+msgid "Theme Settings"
+msgstr "Pengaturan tema"
+
+#: admin/admin-button.php:3
+msgid "Logo Uploader"
+msgstr "Pengunggah Logo"
+
+#: admin/admin-button.php:4 admin/category_icons.php:1
+msgid "Category icons"
+msgstr "Ikon kategori"
+
+#: admin/admin-button.php:6 admin/settings.php:14
+msgid "Text"
+msgstr "Teks"
+
+#: admin/admin-button.php:7 admin/settings.php:15
+msgid "Color"
+msgstr "Warna"
+
+#: admin/category_icons.php:1
+msgid "Icon must be a PNG file size 48X48px with transparent background. Enable Use ImageMagick."
+msgstr "Ikon harus berukuran file PNG 48X48px dengan latar belakang transparan. Aktifkan Gunakan ImageMagick."
+
+#: admin/category_icons.php:1
+msgid "Remove icon"
+msgstr "Hapus ikon"
+
+#: admin/category_icons.php:1
+msgid "No icon"
+msgstr "Tidak ada ikon"
+
+#: admin/category_icons.php:1 admin/header.php:44
+msgid "Upload"
+msgstr "Unggah"
+
+#: admin/color.php:9
+msgid "If the field is empty, will be set to the standard color theme"
+msgstr "Jika bidang kosong, akan diatur ke tema warna standar"
+
+#: admin/color.php:13
+msgid "Header"
+msgstr "Header"
+
+#: admin/color.php:15
+msgid "Color button Post (main)"
+msgstr "Tombol warna Posting (utama)"
+
+#: admin/color.php:22
+msgid "Color button Post (general)"
+msgstr "Tombol warna Posting (umum)"
+
+#: admin/color.php:28
+msgid "Home"
+msgstr "Rumah"
+
+#: admin/color.php:31
+msgid "Color block Search in main and bootom line"
+msgstr "Blok warna Cari di jalur utama dan bootom"
+
+#: admin/color.php:38
+msgid "Button search in main"
+msgstr "Pencarian tombol di utama"
+
+#: admin/color.php:43 header.php:30 header.php:60 header.php:78 inc.search.php:51 search.php:58 search.php:208 search.php:305
+msgid "Search"
+msgstr "Pencarian"
+
+#: admin/color.php:46
+msgid "Search bar in search.php"
+msgstr "Bilah pencarian di search.php"
+
+#: admin/color.php:53
+msgid "Alert button in search.php"
+msgstr "Tombol lansiran di search.php"
+
+#: admin/color.php:60
+msgid "User login and User register"
+msgstr "Login pengguna dan Daftar pengguna"
+
+#: admin/color.php:62
+msgid "Background block"
+msgstr "Blok latar belakang"
+
+#: admin/color.php:68 admin/color.php:77
+msgid "Button color"
+msgstr "Warna tombol"
+
+#: admin/color.php:75
+msgid "Item post"
+msgstr "Pos barang"
+
+#: admin/color.php:84
+msgid "Item"
+msgstr "Barang"
+
+#: admin/color.php:86
+msgid "Header block title"
+msgstr "Judul blok judul"
+
+#: admin/color.php:92
+msgid "Phone block"
+msgstr "Blok telepon"
+
+#: admin/color.php:98
+msgid "Contact block"
+msgstr "Blok kontak"
+
+#: admin/color.php:110 admin/settings.php:112 admin/settings.php:169 admin/text.php:41
+msgid "Save changes"
+msgstr "Simpan perubahan"
+
+#: admin/header.php:5 functions.php:434 functions.php:441
+msgid "Header logo"
+msgstr "Logo tajuk"
+
+#: admin/header.php:8
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: admin/header.php:15
+msgid "Remove logo"
+msgstr "Hapus logo"
+
+#: admin/header.php:23
+msgid "No logo has been uploaded yet"
+msgstr "Belum ada logo yang diunggah"
+
+#: admin/header.php:26
+msgid "Upload logo"
+msgstr "Unggah logo"
+
+#: admin/header.php:28
+msgid "The preferred size of the logo is 600x100."
+msgstr "Ukuran logo yang disukai adalah 600x100."
+
+#: admin/header.php:30
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong> Catatan: </strong> Mengunggah logo lain akan menimpa logo saat ini."
+
+#: admin/header.php:38
+msgid "Logo image (png,gif,jpg)"
+msgstr "Gambar logo (png, gif, jpg)"
+
+#: admin/header.php:53
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "Folder gambar <strong> %s </strong> tidak dapat ditulisi di server Anda"
+
+#: admin/header.php:54
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr "OSClass tidak dapat mengunggah gambar logo dari panel administrasi."
+
+#: admin/header.php:55
+msgid "Please make the aforementioned image folder writable."
+msgstr "Harap buat folder gambar tersebut dapat ditulis."
+
+#: admin/header.php:60
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Untuk membuat direktori dapat ditulis di bawah UNIX, jalankan perintah ini dari shell:"
+
+#: admin/settings.php:2 functions.php:435 functions.php:442
+msgid "Theme settings"
+msgstr "Pengaturan tema"
+
+#: admin/settings.php:12
+msgid "Setting"
+msgstr "Pengaturan"
+
+#: admin/settings.php:13
+msgid "Category images"
+msgstr "Kategori gambar"
+
+#: admin/settings.php:21
+msgid "Global settings"
+msgstr "Pengaturan global"
+
+#: admin/settings.php:25
+msgid "Show lists as:"
+msgstr "Tampilkan daftar sebagai:"
+
+#: admin/settings.php:28
+msgid "Gallery"
+msgstr "Galeri"
+
+#: admin/settings.php:29 search.php:351
+msgid "List"
+msgstr "Daftar"
+
+#: admin/settings.php:34
+msgid "Show category search:"
+msgstr "Tampilkan pencarian kategori:"
+
+#: admin/settings.php:37
+msgid "Standart select"
+msgstr "Pilih standar"
+
+#: admin/settings.php:38
+msgid "Advanced select"
+msgstr "Pilih lanjutan"
+
+#: admin/settings.php:43
+msgid "Latest Listings:"
+msgstr "Daftar Terbaru:"
+
+#: admin/settings.php:46
+msgid "Standart latest list"
+msgstr "Standart daftar terbaru"
+
+#: admin/settings.php:47
+msgid "Latest list by category"
+msgstr "Daftar terbaru berdasarkan kategori"
+
+#: admin/settings.php:51
+msgid "max number in block"
+msgstr "jumlah maksimum dalam blok"
+
+#: admin/settings.php:62
+msgid "Numder premium items on main"
+msgstr "Jumlah item premium utama"
+
+#: admin/settings.php:69
+msgid "Numder premium items in search list, galery"
+msgstr "Jumlah item premium dalam daftar pencarian, galeri"
+
+#: admin/settings.php:77
+msgid "Premium home"
+msgstr "Rumah premium"
+
+#: admin/settings.php:87
+msgid "Link on facebook"
+msgstr "Tautan di facebook"
+
+#: admin/settings.php:95
+msgid "Link on twitter"
+msgstr "Tautan di twitter"
+
+#: admin/settings.php:102
+msgid "Link on google"
+msgstr "Tautan di google"
+
+#: admin/settings.php:117
+msgid "Ads management"
+msgstr "Manajemen iklan"
+
+#: admin/settings.php:121
+msgid "In this section you can configure your site to display ads and start generating revenue."
+msgstr "Di bagian ini Anda dapat mengonfigurasi situs Anda untuk menampilkan iklan dan mulai menghasilkan pendapatan."
+
+#: admin/settings.php:121
+msgid "If you are using an online advertising platform, such as Google Adsense, copy and paste here the provided code for ads."
+msgstr "Jika Anda menggunakan platform iklan online, seperti Google Adsense, salin dan tempel di sini kode yang disediakan untuk iklan."
+
+#: admin/settings.php:129
+msgid "Header 728x90"
+msgstr "Header 728x90"
+
+#: admin/settings.php:133
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Iklan ini akan ditampilkan di bagian atas situs web Anda, di sebelah judul situs dan di atas hasil pencarian. Perhatikan bahwa ukuran iklan harus 728x90 piksel."
+
+#: admin/settings.php:137
+msgid "Homepage 728x90"
+msgstr "Halaman Utama 728x90"
+
+#: admin/settings.php:141
+msgid ""
+"This ad will be shown on the main site of your website. It will appear both at the top and bottom of your site homepage. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Iklan ini akan ditampilkan di situs utama situs web Anda. Ini akan muncul di bagian atas dan bawah beranda situs Anda. Perhatikan bahwa ukuran iklan harus 728x90 piksel."
+
+#: admin/settings.php:145
+msgid "Search results 728x90 (top of the page)"
+msgstr "Hasil pencarian 728x90 (atas halaman)"
+
+#: admin/settings.php:149
+msgid "This ad will be shown on top of the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Iklan ini akan ditampilkan di atas hasil pencarian situs Anda. Perhatikan bahwa ukuran iklan harus 728x90 piksel."
+
+#: admin/settings.php:153
+msgid "Search results 728x90 (middle of the page)"
+msgstr "Hasil pencarian 728x90 (di tengah halaman)"
+
+#: admin/settings.php:157
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Iklan ini akan ditampilkan di antara hasil pencarian situs Anda. Perhatikan bahwa ukuran iklan harus 728x90 piksel."
+
+#: admin/settings.php:161
+msgid "Sidebar 300x250"
+msgstr "Bilah samping 300x250"
+
+#: admin/settings.php:165
+msgid "This ad will be shown at the right sidebar of your website, on the product detail page. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Iklan ini akan ditampilkan di sidebar kanan situs web Anda, pada halaman detail produk. Perhatikan bahwa ukuran iklan harus 300x350 piksel."
+
+#: admin/text.php:16
+msgid "Title and description"
+msgstr "Judul dan deskripsi"
+
+#: admin/text.php:22
+msgid "Title in header"
+msgstr "Judul di tajuk"
+
+#: admin/text.php:26
+msgid "This text will be placed in the header theme "
+msgstr "Teks ini akan ditempatkan di tema header "
+
+#: admin/text.php:30
+msgid "Description in footer "
+msgstr "Deskripsi di footer "
+
+#: admin/text.php:34
+msgid "Description site in footer"
+msgstr "Situs deskripsi di footer"
+
+#: alert-form.php:6
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Anda telah berhasil berlangganan lansiran"
+
+#: alert-form.php:7 user-change_email.php:32
+msgid "Invalid email address"
+msgstr "Alamat email salah"
+
+#: alert-form.php:8
+msgid "There was a problem with the alert"
+msgstr "Ada masalah dengan lansiran"
+
+#: alert-form.php:38
+msgid "Subscribe to this search"
+msgstr "Berlangganan ke pencarian ini"
+
+#: alert-form.php:50
+msgid "Subscribe now"
+msgstr "Berlangganan sekarang"
+
+#: contact.php:24 template-contact.php:28
+msgid "Contact us"
+msgstr "Hubungi kami"
+
+#: contact.php:30 template-contact.php:34
+msgid "Subject"
+msgstr "Subyek"
+
+#: contact.php:30 contact.php:32 item-contact.php:43 template-contact.php:34 template-contact.php:36 user-public-profile.php:78
+msgid "optional"
+msgstr "pilihan"
+
+#: contact.php:31 item-contact.php:44 item.php:482 template-contact.php:35 user-public-profile.php:79
+msgid "Message"
+msgstr "Pesan"
+
+#: contact.php:32 item-contact.php:40 item.php:479 template-contact.php:36 user-public-profile.php:76
+msgid "Your name"
+msgstr "Namamu"
+
+#: contact.php:33 item-contact.php:41 item.php:480 template-contact.php:37 user-public-profile.php:77
+msgid "Your e-mail address"
+msgstr "Alamat email anda"
+
+#: contact.php:36 item.php:248 item.php:304 item.php:337 template-contact.php:39 user-public-profile.php:96
+msgid "Send"
+msgstr "Kirim"
+
+#: footer.php:26
+msgid "We social networks"
+msgstr "Kami jejaring sosial"
+
+#: footer.php:27
+msgid "Facebook"
+msgstr "Facebook"
+
+#: footer.php:28
+msgid "Twitter"
+msgstr "Kericau"
+
+#: footer.php:29
+msgid "Google+"
+msgstr "Google+"
+
+#: footer.php:53
+msgid "Contact"
+msgstr "Kontak"
+
+#: footer.php:54
+msgid "Copyright"
+msgstr "Hak cipta"
+
+#: functions.php:34 functions.php:76 item-edit.php:112 item-post.php:125 search.php:183 search.php:264
+msgid "Select a category"
+msgstr "Pilih Kategori"
+
+#: functions.php:35
+msgid "All category"
+msgstr "Semua kategori"
+
+#: functions.php:235
+msgid "Theme settings updated correctly"
+msgstr "Pengaturan tema diperbarui dengan benar"
+
+#: functions.php:242
+msgid "The logo image has been uploaded correctly"
+msgstr "Gambar logo telah diunggah dengan benar"
+
+#: functions.php:244 functions.php:247 functions.php:270
+msgid "An error has occurred, please try again"
+msgstr "Telah terjadi kesalahan, silakan coba lagi"
+
+#: functions.php:254
+msgid "The logo image has been removed"
+msgstr "Gambar logo telah dihapus"
+
+#: functions.php:256 functions.php:281
+msgid "Image not found"
+msgstr "Gambar tidak ditemukan"
+
+#: functions.php:268
+msgid "The icon has been uploaded correctly"
+msgstr "Ikon telah diunggah dengan benar"
+
+#: functions.php:279
+msgid "The icon has been removed"
+msgstr "Ikon telah dihapus"
+
+#: functions.php:289
+msgid "Settings updated correctly"
+msgstr "Pengaturan diperbarui dengan benar"
+
+#: functions.php:322
+msgid "Color updated correctly"
+msgstr "Warna diperbarui dengan benar"
+
+#: functions.php:439
+msgid "Katrina theme"
+msgstr "Tema Katrina"
+
+#: head.php:35
+msgid "No file selected"
+msgstr "Tidak ada file yang dipilih"
+
+#: head.php:36
+msgid "Choose File"
+msgstr "Pilih File"
+
+#: header.php:22 header.php:107 header.php:157
+msgid "Publish your ad for free"
+msgstr "Publikasikan iklan Anda secara gratis"
+
+#: header.php:38 header.php:66 header.php:129
+msgid "My listings"
+msgstr "Daftar saya"
+
+#: header.php:64 header.php:118
+msgid "My account"
+msgstr "Akun saya"
+
+#: header.php:65 header.php:127
+msgid "My alerts"
+msgstr "Lansiran saya"
+
+#: header.php:68 header.php:128
+msgid "My personal info"
+msgstr "Info pribadi saya"
+
+#: header.php:71 header.php:132
+msgid "Logout"
+msgstr "Keluar"
+
+#: header.php:82 header.php:147 item.php:199
+msgid "Login"
+msgstr "Masuk"
+
+#: header.php:84 item.php:200 user-login.php:27
+msgid "Register for a free account"
+msgstr "Daftarkan akun gratis"
+
+#: header.php:91
+msgid "Language"
+msgstr "Bahasa"
+
+#: header.php:143
+msgid "Login and register"
+msgstr "Masuk dan daftar"
+
+#: header.php:148
+msgid "Register account"
+msgstr "Daftarkan akun"
+
+#: inc.main.php:20
+msgid "View all items"
+msgstr "Lihat semua item"
+
+#: inc.main.php:21
+msgid "in"
+msgstr "di"
+
+#: inc.search.php:3 search.php:28
+msgid "Select a region..."
+msgstr "Pilih satu wilayah ..."
+
+#: inc.search.php:3 inc.search.php:17 search.php:28 search.php:40
+msgid "Select your Country"
+msgstr "Pilih negaramu"
+
+#: inc.search.php:12 search.php:36
+msgid "Search in"
+msgstr "Mencari"
+
+#: inc.search.php:12 search.php:36
+msgid "listings"
+msgstr "daftar"
+
+#: inc.search.php:18 item-post.php:287 item-post.php:292 item-post.php:299 item-post.php:322 item-post.php:329 item-post.php:331 item-post.php:344 search.php:41 search.php:128
+#: search.php:612 search.php:617 search.php:624 search.php:645 search.php:652 search.php:654 search.php:667
+msgid "Select a region"
+msgstr "Pilih satu wilayah"
+
+#: inc.search.php:19 item-post.php:295 item-post.php:312 item-post.php:313 item-post.php:325 item-post.php:336 item-post.php:338 item-post.php:347 item-post.php:369
+#: item-post.php:374 item-post.php:378 item-post.php:390 search.php:42 search.php:161 search.php:620 search.php:637 search.php:638 search.php:648 search.php:659 search.php:661
+#: search.php:670 search.php:692 search.php:697 search.php:701 search.php:713
+msgid "Select a city"
+msgstr "Pilih satu kota"
+
+#: inc.search.php:44 search.php:251
+msgid "Clear box"
+msgstr "Kosongkan kotak"
+
+#: item-contact.php:26 item.php:377
+msgid "Contact seller"
+msgstr "Hubungi penjual"
+
+#: item-contact.php:34
+msgid "To (seller)"
+msgstr "Ke (penjual)"
+
+#: item-contact.php:35 item.php:324
+msgid "Listing"
+msgstr "Daftar"
+
+#: item-contact.php:43 item.php:481 user-public-profile.php:78
+msgid "Phone number"
+msgstr "Nomor telepon"
+
+#: item-contact.php:46
+msgid "Send message"
+msgstr "Mengirim pesan"
+
+#: item-edit.php:100
+msgid "Update your listing"
+msgstr "Perbarui daftar Anda"
+
+#: item-edit.php:109 item-post.php:122
+msgid "General Information"
+msgstr "Informasi Umum"
+
+#: item-edit.php:111 item-post.php:124 search.php:180
+msgid "Category"
+msgstr "Kategori"
+
+#: item-edit.php:120 item-post.php:164 item-post.php:167 search.php:192 search.php:195 search.php:196 search.php:285 search.php:286 user-alerts.php:41
+msgid "Price"
+msgstr "Harga"
+
+#: item-edit.php:135 item-post.php:141
+msgid "Photos"
+msgstr "Foto"
+
+#: item-edit.php:144 item-post.php:158
+msgid "Add new photo"
+msgstr "Tambahkan foto baru"
+
+#: item-edit.php:151 item-post.php:177
+msgid "Listing Location"
+msgstr "Lokasi Pencatatan"
+
+#: item-edit.php:154 item-post.php:180 search.php:85 user-profile.php:72
+msgid "Country"
+msgstr "Negara"
+
+#: item-edit.php:158 item-edit.php:168 item-post.php:186 item-post.php:202 search.php:124 user-profile.php:76
+msgid "Region"
+msgstr "Wilayah"
+
+#: item-edit.php:173 item-post.php:214 search.php:157 user-profile.php:80
+msgid "City"
+msgstr "Kota"
+
+#: item-edit.php:180 item-post.php:238 user-profile.php:98
+msgid "Phone"
+msgstr "Telepon"
+
+#: item-edit.php:184 item-post.php:221 user-profile.php:84 user-public-profile.php:56
+msgid "Address"
+msgstr "Alamat"
+
+#: item-edit.php:196 user-change_email.php:73 user-change_password.php:37 user-change_username.php:94 user-profile.php:88 user-profile.php:110
+msgid "Update"
+msgstr "Memperbarui"
+
+#: item-edit.php:197 item-post.php:120 user-profile.php:39
+msgid "Cancel"
+msgstr "Membatalkan"
+
+#: item-post.php:121
+msgid "Publish a listing"
+msgstr "Publikasikan daftar"
+
+#: item-post.php:161
+msgid "You can upload up to"
+msgstr "Anda dapat mengunggah hingga"
+
+#: item-post.php:161
+msgid "pictures per listing"
+msgstr "gambar per daftar"
+
+#: item-post.php:228
+msgid "Seller's information"
+msgstr "Informasi penjual"
+
+#: item-post.php:230 item.php:204 item.php:206 user-profile.php:54 user-register.php:33 user-register.php:54
+msgid "Name"
+msgstr "Nama"
+
+#: item-post.php:234 user-login.php:18 user-login.php:36 user-profile.php:116 user-recover.php:18 user-register.php:42 user-register.php:57
+msgid "E-mail"
+msgstr "E-mail"
+
+#: item-post.php:244
+msgid "Show e-mail on the listing page"
+msgstr "Tampilkan email di halaman daftar"
+
+#: item-post.php:258
+msgid "Publish"
+msgstr "Menerbitkan"
+
+#: item-post.php:302 search.php:137 search.php:627
+msgid "Enter a region"
+msgstr "Masukkan suatu wilayah"
+
+#: item-post.php:305 item-post.php:381 search.php:170 search.php:630 search.php:704
+msgid "Enter a city"
+msgstr "Masukkan kota"
+
+#: item-post.php:380 search.php:703
+msgid "No cities found"
+msgstr "Tidak ada kota yang ditemukan"
+
+#: item-post.php:421 item-post.php:422
+msgid "characters"
+msgstr "karakter"
+
+#: item-post.php:466 item-post.php:472 item-post.php:477 item-post.php:480 item-post.php:483 item-post.php:487
+msgid "This field is required."
+msgstr "Bagian ini diperlukan."
+
+#: item-post.php:467
+msgid "Name must have at least 1 character"
+msgstr "Nama harus memiliki setidaknya 1 karakter"
+
+#: item-post.php:468
+msgid "Maximum number of characters for the name"
+msgstr "Jumlah karakter maksimum untuk nama"
+
+#: item-post.php:473
+msgid "Password must have at least 1 character"
+msgstr "Kata sandi harus memiliki setidaknya 1 karakter"
+
+#: item-post.php:474
+msgid "Maximum number of characters"
+msgstr "Jumlah karakter maksimum"
+
+#: item-post.php:488
+msgid "Invalid format of email address."
+msgstr "Format alamat email tidak valid."
+
+#: item.php:50
+msgid "ХХХХХХХХ"
+msgstr "ХХХХХХХХ"
+
+#: item.php:51
+msgid "ХХХХ@ХХХХ"
+msgstr "ХХХХ @ ХХХХ"
+
+#: item.php:70 user-items.php:72
+msgid "today"
+msgstr "hari ini"
+
+#: item.php:73 user-items.php:72
+msgid "views"
+msgstr "dilihat"
+
+#: item.php:82 search_list.php:32 search_list.php:79 user-items.php:51
+msgid "Premium"
+msgstr "Premium"
+
+#: item.php:90 item.php:97
+msgid "Image"
+msgstr "Gambar"
+
+#: item.php:115 print.php:93
+msgid "Published"
+msgstr "Diterbitkan"
+
+#: item.php:117
+msgid "Modified"
+msgstr "Diubah"
+
+#: item.php:120
+msgid "ID"
+msgstr "ID"
+
+#: item.php:150
+msgid "Share on Facebook"
+msgstr "Bagikan di Facebook"
+
+#: item.php:152
+msgid "Share on Google Plus"
+msgstr "Bagikan di Google Plus"
+
+#: item.php:154
+msgid "Share on Twitter"
+msgstr "Bagikan di Twitter"
+
+#: item.php:168 user-public-profile.php:67
+msgid "Contact publisher"
+msgstr "Hubungi penerbit"
+
+#: item.php:172
+msgid "Comments"
+msgstr "Komentar"
+
+#: item.php:176
+msgid "Send to a friend"
+msgstr "Kirim ke teman"
+
+#: item.php:188
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Daftar telah kedaluwarsa. Anda tidak dapat menghubungi penerbit."
+
+#: item.php:192
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "Ini daftar Anda sendiri, Anda tidak dapat menghubungi penerbit."
+
+#: item.php:196
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Anda harus masuk atau mendaftar akun baru untuk menghubungi pengiklan"
+
+#: item.php:212
+msgid "Show email"
+msgstr "Tampilkan email"
+
+#: item.php:225
+msgid "Attachments"
+msgstr "Lampiran"
+
+#: item.php:242 user-public-profile.php:90
+msgid "Enter the words above"
+msgstr "Masukkan kata-kata di atas"
+
+#: item.php:244 user-public-profile.php:92
+msgid "Help"
+msgstr "Membantu"
+
+#: item.php:269
+msgid "by"
+msgstr "oleh"
+
+#: item.php:273
+msgid "Delete your comment"
+msgstr "Hapus komentar Anda"
+
+#: item.php:273 user-items.php:65 user-profile.php:36
+msgid "Delete"
+msgstr "Menghapus"
+
+#: item.php:291
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Tinggalkan komentar Anda (spam dan pesan ofensif akan dihapus)"
+
+#: item.php:352
+msgid "Edit item"
+msgstr "Edit item"
+
+#: item.php:367
+msgid "Show phone"
+msgstr "Tampilkan telepon"
+
+#: item.php:397
+msgid "Show on map"
+msgstr "Tampilkan di peta"
+
+#: item.php:417 user-public-profile.php:43
+msgid "Check profile of this user"
+msgstr "Periksa profil pengguna ini"
+
+#: item.php:430
+msgid "Mark as"
+msgstr "Ditandai sebagai"
+
+#: item.php:432
+msgid "spam"
+msgstr "spam"
+
+#: item.php:433
+msgid "misclassified"
+msgstr "salah klasifikasi"
+
+#: item.php:434
+msgid "duplicated"
+msgstr "diduplikasi"
+
+#: item.php:435
+msgid "expired"
+msgstr "kedaluwarsa"
+
+#: item.php:436
+msgid "offensive"
+msgstr "serangan"
+
+#: item.php:483
+msgid "Title"
+msgstr "Judul"
+
+#: item.php:484
+msgid "Comment"
+msgstr "Komentar"
+
+#: item.php:485
+msgid "Your friend name"
+msgstr "Nama temanmu"
+
+#: item.php:486
+msgid "Your friends e-mail address"
+msgstr "Alamat email teman Anda"
+
+#: main.php:38
+msgid "Premium listings"
+msgstr "Daftar premium"
+
+#: main.php:78
+msgid "Latest Listings"
+msgstr "Daftar Terbaru"
+
+#: main.php:82
+msgid "No Latest Listings"
+msgstr "Tidak Ada Daftar Terbaru"
+
+#: main.php:176
+msgid "See all offers"
+msgstr "Lihat semua penawaran"
+
+#: print.php:34 print.php:83
+msgid "Print"
+msgstr "Mencetak"
+
+#: print.php:44 print.php:108
+msgid "Hide Pictures"
+msgstr "Sembunyikan Gambar"
+
+#: print.php:48
+msgid "Show Pictures"
+msgstr "Tampilkan Gambar"
+
+#: print.php:91 user-public-profile.php:57
+msgid "Location"
+msgstr "Lokasi"
+
+#: print.php:95
+msgid "Contact Info"
+msgstr "Info kontak"
+
+#: print.php:102
+msgid "Description"
+msgstr "Deskripsi"
+
+#: print.php:118
+msgid "This ad was generated by"
+msgstr "Iklan ini dihasilkan oleh"
+
+#: search.php:95
+msgid "Select a country"
+msgstr "Pilih negara"
+
+#: search.php:195 search.php:285
+msgid "Min"
+msgstr "Min"
+
+#: search.php:196 search.php:286
+msgid "Max"
+msgstr "Maks"
+
+#: search.php:204 search.php:294
+msgid "Show only listings with pictures"
+msgstr "Tampilkan hanya cantuman dengan gambar"
+
+#: search.php:310
+#, php-format
+msgid "%1$d - %2$d of %3$d listings"
+msgstr "%1$d - %2$d dari %3$d listing"
+
+#: search.php:326
+msgid "Sort by"
+msgstr "Sortir dengan"
+
+#: search.php:352
+msgid "Grid"
+msgstr "Kisi"
+
+#: search.php:357
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "Tidak ada hasil yang cocok dengan \\ \" %s \""
+
+#: search.php:371
+msgid "Recent Searches"
+msgstr "Pencarian terkini"
+
+#: search.php:381
+msgid "Regions"
+msgstr "Daerah"
+
+#: search.php:395
+msgid "Cities"
+msgstr "Kota"
+
+#: search.php:557
+msgid "По всему региону"
+msgstr "По всему региону"
+
+#: user-alerts.php:11 user-change_email.php:52 user-change_password.php:13 user-change_username.php:72 user-dashboard.php:12 user-items.php:12 user-profile.php:18
+msgid "User account manager"
+msgstr "Manajer akun pengguna"
+
+#: user-alerts.php:16
+msgid "Your alerts"
+msgstr "Lansiran Anda"
+
+#: user-alerts.php:18
+msgid "You do not have any alerts yet"
+msgstr "Anda belum memiliki lansiran"
+
+#: user-alerts.php:22
+msgid "Alert"
+msgstr "Waspada"
+
+#: user-alerts.php:22
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak dapat diurungkan. Apakah anda yakin ingin melanjutkan?"
+
+#: user-alerts.php:22
+msgid "Delete this alert"
+msgstr "Hapus lansiran ini"
+
+#: user-alerts.php:40 user-items.php:55
+msgid "Publication date"
+msgstr "Tanggal penerbitan"
+
+#: user-alerts.php:48
+msgid "Listings"
+msgstr "Daftar"
+
+#: user-change_email.php:31
+msgid "Email: this field is required"
+msgstr "Email: bidang ini wajib diisi"
+
+#: user-change_email.php:58
+msgid "Change your e-mail"
+msgstr "Ubah email Anda"
+
+#: user-change_email.php:65
+msgid "Current e-mail"
+msgstr "Email saat ini"
+
+#: user-change_email.php:69
+msgid "New e-mail"
+msgstr "Email baru"
+
+#: user-change_password.php:19
+msgid "Change your password"
+msgstr "Ubah kata sandi Anda"
+
+#: user-change_password.php:25
+msgid "Current password"
+msgstr "Kata sandi saat ini"
+
+#: user-change_password.php:29 user-forgot_password.php:21
+msgid "New password"
+msgstr "Kata sandi baru"
+
+#: user-change_password.php:33 user-forgot_password.php:25
+msgid "Repeat new password"
+msgstr "Ulangi kata sandi baru"
+
+#: user-change_username.php:30
+msgid "Username: this field is required"
+msgstr "Nama pengguna: bidang ini wajib diisi"
+
+#: user-change_username.php:55
+msgid "The username is available"
+msgstr "Nama pengguna tersedia"
+
+#: user-change_username.php:57
+msgid "The username is NOT available"
+msgstr "Nama pengguna TIDAK tersedia"
+
+#: user-change_username.php:78
+msgid "Change your username"
+msgstr "Ubah nama pengguna Anda"
+
+#: user-change_username.php:85 user-profile.php:58
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: user-change_username.php:89
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "PERINGATAN: Setelah diatur, Anda tidak akan dapat mengubah nama pengguna Anda lagi. Pilihlah dengan bijak."
+
+#: user-dashboard.php:18
+#, php-format
+msgid "Listings from %s"
+msgstr "Daftar dari %s"
+
+#: user-dashboard.php:20
+msgid "No listings have been added yet"
+msgstr "Belum ada listing yang ditambahkan"
+
+#: user-dashboard.php:28 user-items.php:48
+msgid "Active"
+msgstr "Aktif"
+
+#: user-dashboard.php:36 user-items.php:49
+msgid "Expired"
+msgstr "Kedaluwarsa"
+
+#: user-dashboard.php:44
+msgid "Not active"
+msgstr "Tidak aktif"
+
+#: user-dashboard.php:55 user-items.php:61
+msgid "Edit"
+msgstr "Edit"
+
+#: user-forgot_password.php:13 user-recover.php:13
+msgid "Recover your password"
+msgstr "Pulihkan kata sandi Anda"
+
+#: user-forgot_password.php:28
+msgid "Change password"
+msgstr "Ganti kata sandi"
+
+#: user-items.php:20
+msgid "Your listings"
+msgstr "Daftar Anda"
+
+#: user-items.php:20
+msgid "Post a new listing"
+msgstr "Posting daftar baru"
+
+#: user-items.php:22
+msgid "You don't have any listings yet"
+msgstr "Anda belum memiliki listing"
+
+#: user-items.php:48
+msgid "Inactive"
+msgstr "Non-aktif"
+
+#: user-items.php:52
+msgid "Spam"
+msgstr "Spam"
+
+#: user-items.php:56
+msgid "Expiration date"
+msgstr "Tanggal kadaluarsa"
+
+#: user-items.php:65
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak bisa dibatalkan. Apakah anda yakin ingin melanjutkan?"
+
+#: user-login.php:13
+msgid "Access to your account"
+msgstr "Akses ke akun Anda"
+
+#: user-login.php:20 user-login.php:37 user-profile.php:125 user-register.php:35 user-register.php:55
+msgid "Password"
+msgstr "Kata sandi"
+
+#: user-login.php:22
+msgid "Remember me"
+msgstr "Ingat saya"
+
+#: user-login.php:23
+msgid "Forgot password?"
+msgstr "Lupa kata sandi?"
+
+#: user-login.php:25
+msgid "Log in"
+msgstr "Masuk"
+
+#: user-profile.php:52
+msgid "Contacts"
+msgstr "Kontak"
+
+#: user-profile.php:62
+msgid "Modify username"
+msgstr "Ubah nama pengguna"
+
+#: user-profile.php:67
+msgid "Cell phone"
+msgstr "Telepon selular"
+
+#: user-profile.php:92
+msgid "Business"
+msgstr "Bisnis"
+
+#: user-profile.php:94
+msgid "User type"
+msgstr "Tipe Pengguna"
+
+#: user-profile.php:103 user-public-profile.php:58
+msgid "Website"
+msgstr "Situs web"
+
+#: user-profile.php:107
+msgid "Info"
+msgstr "Info"
+
+#: user-profile.php:114
+msgid "Email"
+msgstr "E-mail"
+
+#: user-profile.php:119
+msgid "Modify e-mail"
+msgstr "Ubah email"
+
+#: user-profile.php:130
+msgid "Modify password"
+msgstr "Ubah kata sandi"
+
+#: user-profile.php:135
+msgid "Delete my account"
+msgstr "Hapus akun Saya"
+
+#: user-profile.php:141
+msgid "Delete account"
+msgstr "Hapus akun"
+
+#: user-profile.php:144
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Semua daftar dan peringatan Anda akan dihapus, tindakan ini tidak dapat diurungkan."
+
+#: user-public-profile.php:53
+msgid "Profile"
+msgstr "Profil"
+
+#: user-public-profile.php:59
+msgid "User Description"
+msgstr "Deskripsi Pengguna"
+
+#: user-public-profile.php:108
+msgid "Latest listings"
+msgstr "Daftar terbaru"
+
+#: user-recover.php:20
+msgid "Send me a new password"
+msgstr "Kirimkan saya kata sandi baru"
+
+#: user-register.php:26
+msgid "Register an account for free"
+msgstr "Daftarkan akun secara gratis"
+
+#: user-register.php:37 user-register.php:56
+msgid "Re-type password"
+msgstr "Ketikkan kembali kata sandi"
+
+#: user-register.php:40
+msgid "Passwords don't match"
+msgstr "Kata sandi tidak cocok"
+
+#: user-register.php:46
+msgid "Create"
+msgstr "Membuat"
